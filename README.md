@@ -3,4 +3,3 @@
 use the power of python to automate the vote-counting process for local election
 
 
-adding pypool.py file via git bash
