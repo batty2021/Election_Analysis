@@ -17,17 +17,19 @@ use the power of python to automate the vote-counting process for local election
  8.The voter turnout for each county
  
 # Election-Audit Results:
- - There were 369,711 votes cast in the Election
+ - There were 369,711 votes cast in the Electio 
+ 
+ # The Candidates Achivementa were;
+    - Charles Casper Stockham achived 23.0% of the vote , for the total of 85,213 votes
+    - Diana DeGette brought about 73.8% of the vote , for total of 272,892 votes
+    - Raymon Anthony Doane concluded 3.1% of the votes for a total of 11,606% votes
  
  # The Candidates were:
    - Charles casper
    - Diana  DeGette
    - Rayon Anthony Doane
-   - 
- # The candidates achivements were:
-    - Charles Casper Stockham achived 23.0% of the vote, for a total of 85,213 votes
-    - Diana Degate brought about 73.8% of the vote, for a total of 272,892 votes
-    - Raymon Anthony Doane concluded  3.1% of the votes for a total of 11,606 votes
+  #
+
     
 # The County with the Largest voter turnout was:
  - Denver is the largest turnout county of all,which produced 82.8% of voters, for a total of 306,055.
@@ -37,7 +39,7 @@ use the power of python to automate the vote-counting process for local election
    - Dernver achived 82.8% of voters, for a total of 306,055 voters
    - Arapahoe produced 6.7% of voters, for a total of 24,801 voters
    
-   - ![Election_results](https://user-images.githubusercontent.com/77947860/149639192-797d0ff6-8ff0-49b1-9f29-254a411b4f5f.png)
+    ![Election_results](https://user-images.githubusercontent.com/77947860/149639192-797d0ff6-8ff0-49b1-9f29-254a411b4f5f.png)
 
 
  
