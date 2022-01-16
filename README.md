@@ -26,8 +26,8 @@ use the power of python to automate the vote-counting process for local election
    - 
  # The Candidates results were:
     - Charles Casper Stockham achived 23.0% of the vote, for a total of 85,213
-    - Diana Degate received 73.8% of the vote, for a total of 272,892
-    - Raymon Anthony Doane recived 3.1% of the votes for a total of 11,606 votes
+    - Diana Degate brought about 73.8% of the vote, for a total of 272,892
+    - Raymon Anthony Doane concluded  3.1% of the votes for a total of 11,606 votes
     
 # The County with the Largest voter turnout was:
  - Denver is the largest turnout county of all,which produced 82.8% of voters, for a total of 306,055.
