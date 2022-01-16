@@ -4,25 +4,35 @@ use the power of python to automate the vote-counting process for local election
 
 # Overview of Election Audit: 
  # Purpose
- To help Seth and Tom the Election audit results to the election commission by using the power of python with VScode editer.
+  The Colorado board of election commmission has requested data to submit the election audit results for local congressional election.
+ 
+ # The data we need to retrieve
+ 1.Total number of votes cast
+ 2.A complete list of candidates who received votes
+ 3.Percentage of votes each candidate won
+ 4.Total number of votes each candidate received
+ 5.The winner of the election based on popular vote
+ 6.Calculate the percentage of votes from each county out of the total.
+ 7.Determine the county with the highest turnout.
+ 8.The voter turnout for each county
  
 # Election-Audit Results:
  - There were 369,711 votes cast in the Election
  
- -The Candidates were:
+ # The Candidates were:
    - Charles casper
    - Diana  DeGette
    - Rayon Anthony Doane
    - 
- -The Candidates results were:
+ # The Candidates results were:
     - Charles Casper Stockham received 23.0% of the vote, for a total of 85,213 votes.
     - Diana DeGette received 73.8% of the vote, for a total of 272,892 votes.
     - Raymon Anthony Doane received 3.1% of the vote, for a total of 11,606 votes.
     
--The County with the Largest voter turnout was:
+# The County with the Largest voter turnout was:
  - Denver is the largest turnout county of all,which produced 82.8% of voters, for a total of 306,055.
  
- - The Voter turnout for each county and percentage was :
+ # The Voter turnout for each county and percentage was :
    - Jefferson produced 10.5% of voters, for a total of 38,855 voters.
    - Denver produced 82.8% of voters, for a total of 306,055 voters.
    - Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
@@ -31,7 +41,7 @@ use the power of python to automate the vote-counting process for local election
 
 
  
-- The winner of the Election was : 
+# The winner of the Election was : 
   - Diana DeGatte won the election, Her vote count ; 272,892 and her percrntage is 73.8%
  
 # Election-Audit Summary: 
