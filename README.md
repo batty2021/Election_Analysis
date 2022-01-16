@@ -24,9 +24,9 @@ use the power of python to automate the vote-counting process for local election
    - Diana  DeGette
    - Rayon Anthony Doane
    - 
- # The Candidates results were:
-    - Charles Casper Stockham achived 23.0% of the vote, for a total of 85,213
-    - Diana Degate brought about 73.8% of the vote, for a total of 272,892
+ # The candidates achivements were:
+    - Charles Casper Stockham achived 23.0% of the vote, for a total of 85,213 votes
+    - Diana Degate brought about 73.8% of the vote, for a total of 272,892 votes
     - Raymon Anthony Doane concluded  3.1% of the votes for a total of 11,606 votes
     
 # The County with the Largest voter turnout was:
