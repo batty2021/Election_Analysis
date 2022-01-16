@@ -33,9 +33,9 @@ use the power of python to automate the vote-counting process for local election
  - Denver is the largest turnout county of all,which produced 82.8% of voters, for a total of 306,055.
  
  # The Voter turnout for each county and percentage was :
-   - Jefferson produced 10.5% of voters, for a total of 38,855 voters.
-   - Denver produced 82.8% of voters, for a total of 306,055 voters.
-   - Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
+   - Jeferson carried out 10.5% of voters ,for a total of 38,855 voters
+   - Dernver achived 82.8% of voters, for a total of 306,055 voters
+   - Arapahoe produced 6.7% of voters, for a total of 24,801 voters
    
    - ![Election_results](https://user-images.githubusercontent.com/77947860/149639192-797d0ff6-8ff0-49b1-9f29-254a411b4f5f.png)
 
