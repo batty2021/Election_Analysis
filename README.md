@@ -48,3 +48,4 @@ use the power of python to automate the vote-counting process for local election
  
 # Election-Audit Summary: 
  - Modifying the script to achive turnout results by county is just one of minor accommodating to the code can disclose critical data. For example;By using an if-statement we can dive deeper to determine what percentage of each county voted for each candidate and also if this were a ferderal election ,we can use the same script and change the county to states.
+ 
