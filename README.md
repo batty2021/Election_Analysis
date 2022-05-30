@@ -42,6 +42,7 @@ use the power of python to automate the vote-counting process for local election
    - Jefferson carried out 10.5% of voters, for a total of 38,855 voters
    - Denver achieved 82.8% of voters, for a total of 306,055 voters
    - Arapahoe produced 6.7% of voters, for a total of 24,801 voters
+   
    ![Election_results](https://user-images.githubusercontent.com/77947860/149680383-3024b58e-468c-449b-b67e-0077a33def83.png)
 
 
