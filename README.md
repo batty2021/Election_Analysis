@@ -1,12 +1,11 @@
-# Election_Analysis
-
-use the power of python to automate the vote-counting process for local election
+# Election_Analysis:
+Use the power of Python to automate the vote-counting process for local election.
 
 # Overview of Election Audit: 
- # Purpose
+ # Purpose:
   A Colorado board of elections Employee has requested data to submit the election audit results forthe  local congressional election.
  
- # The data we need to retrieve
+ # The data we need to retrieve:
  1.Total number of votes cast
  2.A complete list of candidates who received votes
  3.Percentage of votes each candidate won
