@@ -3,7 +3,7 @@ Use the power of Python to automate the vote-counting process for local election
 
 # Overview of Election Audit: 
  # Purpose:
-  A Colorado board of elections Employee has requested data to submit the election audit results forthe  local congressional election.
+  A Colorado board of elections Employee has requested data to submit the election audit results for the local congressional election.
  
  # The data we need to retrieve:
  1.Total number of votes cast
@@ -43,7 +43,6 @@ Use the power of Python to automate the vote-counting process for local election
    - Arapahoe produced 6.7% of voters, for a total of 24,801 voters
    
    ![Election_results](https://user-images.githubusercontent.com/77947860/149680383-3024b58e-468c-449b-b67e-0077a33def83.png)
-
 
 # The winner of the Election was : 
   - Diana DeGette won the election, Her vote count ; 272,892 and her percrntage is 73.8%
