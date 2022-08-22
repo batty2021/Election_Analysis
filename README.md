@@ -1,4 +1,4 @@
-# Election_Analysis:
+# Election_Analysis
 Use the power of Python to automate the vote-counting process for local election.
 
 # Overview of Election Audit: 
